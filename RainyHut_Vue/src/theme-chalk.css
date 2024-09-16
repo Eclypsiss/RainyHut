@@ -1,0 +1,7 @@
+/* theme-chalk.css */
+
+/* 修改下拉框 el-select 的宽度 */
+.el-select {
+  width: 300px; /* 这里可以根据需要调整宽度 */
+  font-family: '字小魂云溪锦书(商用需授权)', sans-serif;; /* 字体家族设置 */
+}
